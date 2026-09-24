@@ -23,7 +23,7 @@ Open `System.Windows.Forms.Calendar35.sln` in Visual Studio 2012 or later with .
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `System.Windows.Forms.Calendar`. Original author **Jose Menendez Póo**, CodeProject article [A Professional Calendar/Agenda View That You Will Use](https://www.codeproject.com/Articles/38699/A-Professional-Calendar-Agenda-View-That-You-Will) (also [WinFormsCalendarView](https://www.codeproject.com/KB/docview/WinFormsCalendarView.aspx)). AssemblyTitle `System.Windows.Forms.Calendar`; AssemblyCopyright Copyright © 2009; AssemblyCompany empty; library AssemblyVersion 3.5.* (Original 1.0.*). Solution Format Version 12.00 (Visual Studio 2012). This is not original VaderConsulting code.
+Working copy from my Historical Dev folder `System.Windows.Forms.Calendar`. Original author **Jose Menendez Póo**, CodeProject article [A Professional Calendar/Agenda View That You Will Use](https://www.codeproject.com/Articles/38699/A-Professional-Calendar-Agenda-View-That-You-Will) (also [WinFormsCalendarView](https://www.codeproject.com/KB/docview/WinFormsCalendarView.aspx)). AssemblyTitle `System.Windows.Forms.Calendar`; AssemblyCopyright Copyright © 2009; AssemblyCompany empty; library AssemblyVersion 3.5.* (Original 1.0.*). Solution Format Version 12.00 (Visual Studio 2012). This is not original VaderConsulting code.
 
 ## License
 
