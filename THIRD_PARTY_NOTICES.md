@@ -10,5 +10,5 @@ This tree is **System.Windows.Forms.Calendar**, not VaderConsulting-authored cod
 
 Later community forks (not in this tree) include SourceForge `winformscalenda` and github.com/derekantrican/winforms-calendar.
 
-Do not treat this repository as Dave Robinson / VaderConsulting MIT-licensed original work.
+Do not treat this repository as Dave Robinson / Vader Consulting MIT-licensed original work.
 VaderConsulting/Dave Robinson did not author the third-party portions identified above.
